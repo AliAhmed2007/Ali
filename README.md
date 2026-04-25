@@ -2,6 +2,16 @@
 
 Crafting elegant digital experiences that bridge technology and human intuition.
 
+
+---
+
+## 📉 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliahmed2007&theme=react-dark&area=true&hide_border=true" alt="Ali's Contribution Graph" />
+</p>
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -29,15 +39,6 @@ Crafting elegant digital experiences that bridge technology and human intuition.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
----
-
-## 📉 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliahmed2007&theme=react-dark&area=true&hide_border=true" alt="Ali's Contribution Graph" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
