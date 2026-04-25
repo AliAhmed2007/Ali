@@ -2,6 +2,12 @@
 
 Crafting elegant digital experiences that bridge technology and human intuition.
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliahmed2007&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmed2007&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 ---
 
