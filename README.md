@@ -10,6 +10,8 @@ Crafting elegant digital experiences that bridge technology and human intuition.
 </p>
 
 ---
+<h4><span style="color: red;">Note: </span> These Stats don't include the private Contributions. It counts only public contributions</h4>
+<hr>
 
 ## 📉 Contribution Graph
 
@@ -17,8 +19,6 @@ Crafting elegant digital experiences that bridge technology and human intuition.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliahmed2007&theme=react-dark&area=true&hide_border=true" alt="Ali's Contribution Graph" />
 </p>
 
-
----
 
 ## 🛠️ Tech Stack
 
